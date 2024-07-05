@@ -1,0 +1,1 @@
+# red-p10k-config
